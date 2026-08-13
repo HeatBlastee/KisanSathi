@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="static/images/favicon.jpg" alt="KisanSathi Logo" width="120">
-</p>
-
 <h1 align="center">🌾 KisanSathi </h1>
 
 <p align="center">
@@ -11,7 +7,6 @@
 <p align="center">
   <a href="#-features">Features</a> • 
   <a href="#-methodology">Methodology</a> • 
-  <a href="#-demo">Demo</a> •  
   <a href="#-about-the-author">Author</a> • 
 </p>
 
@@ -85,8 +80,7 @@ KisanSathi applies a multi-model, AI-powered architecture:
   - Weather forecast
   - Historical yield
   - Market price
-  - Cost of production  
-   ![flow chart](https://github.com/Himanshu0518/Assets/blob/main/crop_recommendation.png?raw=true) 
+  - Cost of production 
 
   **Profitability Score** = `(Yield_Predicted × Price_Predicted - Cost_of_Production) / Cost_of_Production`
 
@@ -103,16 +97,6 @@ KisanSathi applies a multi-model, AI-powered architecture:
 - **Blog & Finance Tracker**:
   - used quill.js to build blog section
   - SQLite for storing user data, expenses, blogs and income
-
----
-
-## 📸 Demo 
-
-<p align="center">
-  <a href="https://youtu.be/CQRa5K5qehQ" target="_blank">
-    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
-  </a>
-</p>
 
 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features:
