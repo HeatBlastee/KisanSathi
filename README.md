@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="static/images/favicon.jpg" alt="AgroAssist Logo" width="120">
+  <img src="static/images/favicon.jpg" alt="KisanSathi Logo" width="120">
 </p>
 
-<h1 align="center">🌾 AgroAssist </h1>
+<h1 align="center">🌾 KisanSathi </h1>
 
 <p align="center">
   <b>Empowering Farmers with AI & ML for Smarter Agriculture</b>
@@ -20,7 +20,7 @@
 
 ## 🌟 Project Overview
 
-**AgroAssist** is a smart agriculture assistant platform built to support farmers in making informed, data-driven decisions. It combines machine learning, deep learning, and real-time weather data to:
+**KisanSathi** is a smart agriculture assistant platform built to support farmers in making informed, data-driven decisions. It combines machine learning, deep learning, and real-time weather data to:
 
 - Recommend the most profitable crops
 - Detect plant diseases using leaf images
@@ -49,7 +49,7 @@
 ---
 
 ## 📂 Dataset
-AgroAssist uses publicly shared datasets that have been curated, cleaned, and uploaded to Kaggle to support reproducibility and transparency.
+KisanSathi uses publicly shared datasets that have been curated, cleaned, and uploaded to Kaggle to support reproducibility and transparency.
 
 | Dataset Name            | Description                                     |  
 | ----------------------- | ----------------------------------------------- |
@@ -78,7 +78,7 @@ AgroAssist uses publicly shared datasets that have been curated, cleaned, and up
 
 ## 🧪 Methodology
 
-AgroAssist applies a multi-model, AI-powered architecture:
+KisanSathi applies a multi-model, AI-powered architecture:
 
 - **Crop Recommendation Model**: Uses regression and classification models to predict the best crop based on:
   - Soil type
@@ -90,11 +90,7 @@ AgroAssist applies a multi-model, AI-powered architecture:
 
   **Profitability Score** = `(Yield_Predicted × Price_Predicted - Cost_of_Production) / Cost_of_Production`
 
-  <p align="center">
-  <a href="https://medium.com/p/4080e0bc141b" target="_blank">
-    <img src="https://img.shields.io/badge/Read_Blog-Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" alt="Read Blog"/>
-  </a>
-</p>
+  
 
 - **Plant Disease Detection**:
   - Deep CNN trained on thousands of labeled plant disease images
@@ -137,8 +133,8 @@ Create a pull request
 
 ```bash
 # Clone the repository
-git clone https://github.com/Himanshu0518/Agroassist.git
-cd agroassist
+git clone https://github.com/{username}/KisanSathi.git
+cd KisanSathi
 
 # Create virtual environment
 python -m venv venv
@@ -155,13 +151,15 @@ python app.py
 
 ## 👨‍💻 About the Author
 
-Himanshu Singh
+Mann Patel
+
+Email: mann110406@gmail.com
 
 Aspiring Machine Learning Engineer & Data Scientist
 
 Passionate about building real-world, impactful AI solutions
 
-I believe in solving problems that matter. AgroAssist was built to empower farmers, not just for a project, but for impact.
+I believe in solving problems that matter. KisanSathi was built to empower farmers, not just for a project, but for impact.
 
 ---
 

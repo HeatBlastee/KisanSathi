@@ -192,10 +192,10 @@ def signup():
         #session["user_id"] = user.id
         
 
-        msg = Message("AgroAssist", 
-                      sender="your_email@gmail.com", 
+        msg = Message("KisanSathi", 
+                  sender="mann110406@gmail.com", 
                       recipients=[new_user.email])
-        msg.body = f"Hello {new_user.username},\n\nThank you for signing up for our platform!\n\nBest Regards,\nAgroAssist"
+        msg.body = f"Hello {new_user.username},\n\nThank you for signing up for our platform!\n\nBest Regards,\nKisanSathi"
         try:
             mail.send(msg)
             print("Signup successful! A confirmation email has been sent.", "success")
