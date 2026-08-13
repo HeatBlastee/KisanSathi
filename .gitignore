@@ -1,0 +1,12 @@
+venv 
+__pycache__
+.env 
+upload_models.ipynb
+# .gitignore
+predictive_models
+
+migrations/
+*.pyc
+blogs\__pycache__
+C:\Users\hs787\Desktop\Forum\.env
+.env
